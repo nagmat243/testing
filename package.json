@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "mocha": "^3.5.3",
-    "puppeteer": "^0.11.0"
+    "puppeteer": "^5.2.1"
   }
 }
